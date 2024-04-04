@@ -1,0 +1,7 @@
+D:\.Net Programming\Console App\IMP Program\NonRepeating\NonRepeating\bin\Debug\NonRepeating.exe.config
+D:\.Net Programming\Console App\IMP Program\NonRepeating\NonRepeating\bin\Debug\NonRepeating.exe
+D:\.Net Programming\Console App\IMP Program\NonRepeating\NonRepeating\bin\Debug\NonRepeating.pdb
+D:\.Net Programming\Console App\IMP Program\NonRepeating\NonRepeating\obj\Debug\NonRepeating.csproj.AssemblyReference.cache
+D:\.Net Programming\Console App\IMP Program\NonRepeating\NonRepeating\obj\Debug\NonRepeating.csproj.CoreCompileInputs.cache
+D:\.Net Programming\Console App\IMP Program\NonRepeating\NonRepeating\obj\Debug\NonRepeating.exe
+D:\.Net Programming\Console App\IMP Program\NonRepeating\NonRepeating\obj\Debug\NonRepeating.pdb

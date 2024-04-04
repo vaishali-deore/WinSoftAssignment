@@ -1,0 +1,7 @@
+D:\.Net Programming\Console App\IMP Program\FrequencyOfEachUniqueElement\FrequencyOfEachUniqueElement\bin\Debug\FrequencyOfEachUniqueElement.exe.config
+D:\.Net Programming\Console App\IMP Program\FrequencyOfEachUniqueElement\FrequencyOfEachUniqueElement\bin\Debug\FrequencyOfEachUniqueElement.exe
+D:\.Net Programming\Console App\IMP Program\FrequencyOfEachUniqueElement\FrequencyOfEachUniqueElement\bin\Debug\FrequencyOfEachUniqueElement.pdb
+D:\.Net Programming\Console App\IMP Program\FrequencyOfEachUniqueElement\FrequencyOfEachUniqueElement\obj\Debug\FrequencyOfEachUniqueElement.csproj.AssemblyReference.cache
+D:\.Net Programming\Console App\IMP Program\FrequencyOfEachUniqueElement\FrequencyOfEachUniqueElement\obj\Debug\FrequencyOfEachUniqueElement.csproj.CoreCompileInputs.cache
+D:\.Net Programming\Console App\IMP Program\FrequencyOfEachUniqueElement\FrequencyOfEachUniqueElement\obj\Debug\FrequencyOfEachUniqueElement.exe
+D:\.Net Programming\Console App\IMP Program\FrequencyOfEachUniqueElement\FrequencyOfEachUniqueElement\obj\Debug\FrequencyOfEachUniqueElement.pdb
